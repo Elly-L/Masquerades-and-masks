@@ -9,7 +9,7 @@ import { Badge } from "@/components/ui/badge"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 import Link from "next/link"
 
-const whatsappNumber = "+254719338534"
+const whatsappNumber = "+254746627718"
 
 interface LowerFaceMask {
   id: string
