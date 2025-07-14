@@ -8,7 +8,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import Link from "next/link"
 
-const whatsappNumber = "+254719338534"
+const whatsappNumber = "+254746627718"
 
 interface PhoenixMask {
   id: string
